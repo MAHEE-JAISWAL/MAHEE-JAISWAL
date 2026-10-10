@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @MAHEE-JAISWAL
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m persuing Computer Science Engineering 
+- 👋 Hi, Thisss is Mahee Jaiswalll Guysss
+- 👀 I’m in AI-ML and Web Dev
 - 📫 Reach me at Email maheejaiswal856@gmail.com
-- 😄 Pronouns: Her
 
 
 <!---
